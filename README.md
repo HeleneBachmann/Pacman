@@ -1,18 +1,20 @@
 # Pacman
-Pacman assignment from MIT dev web
-packManGame
 
-Description:
-This is a version of the Pacman game; in this code we will have pacman images that can move from left to right and when it reaches the wall it has a detection that let it change direction and move back.
 
-Installation:
-No need for any installation. You can run it from your local machine/browser
+This is a PacMan application that allows the viewer to programmatically spawn and animate new PacMan figures with the simple click on an HTML button.
+
+Instructions:
+To load the application click on the following link: https://HeleneBachmann.github.io/Pacman/
+To spawn a new PacMan, click on the provided HTML button titled "Add PacMan".
+To animate the PacMan figures, click the provided HTML button titeled "Start Game".
+To reset the game, reset the webpage.
+
+Plans:
+I hope to continue working on this project as my skills develop to make the UI more engaging and the animation more complex and interesting using JavaScript.
 
 Usage:
 This assignment was used to understand JavaScript. functions, dynamic movements and block scopes
 
-Roadmap/End goal:
-To recreate a full pacMan game
 
 License information:
 MIT License
